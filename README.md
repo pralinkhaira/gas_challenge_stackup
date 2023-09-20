@@ -53,3 +53,23 @@ This command will also check if the sum of the array returns 0. You can refer be
 
 Upload all your working files to your GitHub Repository and submit your GitHub Repository URL to the StackUp Gas Optimization Challenge Bounty Page to successfully complete this challenge!
 
+## Reward Update
+
+- Just completed the Gas Optimisation Bounty Challenge by StackUp Dev and received a fantastic `$10` reward for my efforts! 
+- I'm thrilled to share that I've successfully completed the Gas Optimisation Challenge! This challenge was all about enhancing a smart contract's efficiency by applying various gas optimisation techniques. These techniques are essential to reduce the costs associated with deploying and running smart contracts, ultimately making them more accessible to users.
+- Screenshots :
+- 1. **Rewarded Page:**
+
+![image](https://media.licdn.com/dms/image/D4D22AQEtB_BypnJ4yQ/feedshare-shrink_2048_1536/0/1691751431331?e=1698278400&v=beta&t=B-D3Bfp5AsNtjZDKbupkahyR4FUJsqbZhia-tbY49IQ)
+
+- 2. **Github Repo Screenshot:**
+
+![image](https://media.licdn.com/dms/image/D4D22AQG7Yep3j8gAGA/feedshare-shrink_2048_1536/0/1691751431234?e=1698278400&v=beta&t=1YL_3qKnZrMGZZXlyE_mz1hkEtkx3xncdRmF4BqvhYs)
+
+- 3. **Total Reward:**
+
+![image](https://media.licdn.com/dms/image/D4D22AQG-tgC8V_Ig5g/feedshare-shrink_800/0/1691751430844?e=1698278400&v=beta&t=a1pxuGKDSOE_PtQdSapQuP5RO-S3TCqKX2KneWYOY3I)
+
+- 4. **Amouth Credited:**
+
+![image](https://media.licdn.com/dms/image/D4D22AQGjzrIn3D0ahQ/feedshare-shrink_800/0/1691751430962?e=1698278400&v=beta&t=FG7dYx0T962I7c9l6C4LkUWJUL0Yh5JDx2BcGmVQyaA)
